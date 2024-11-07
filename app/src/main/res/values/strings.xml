@@ -1,8 +1,8 @@
 <resources>
     <string name="app_name">messages</string>
-    <string name="text_name">Имя:</string>
-    <string name="text_age">Возраст:</string>
-    <string name="text_spec">"Специальность: "</string>
+    <string name="text_name">Имя: Артем</string>
+    <string name="text_age">Возраст: 14 лет</string>
+    <string name="text_spec">"Специальность: Android-разработчик"</string>
     <string name="text_photo">Фото</string>
     <string name="text_project">Проекты</string>
     <string name="text_goals">Достижения</string>
